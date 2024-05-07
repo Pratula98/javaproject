@@ -1,5 +1,6 @@
 # java-project.java
-This is my first Git Repository ||
+This is my first Git Repository 
+<br>
 Introduction
 This is a simple console-based "Guess the Number" game implemented in Java. The game generates a random number between a specified range, and the player has to guess the correct number within a limited number of attempts.
 
